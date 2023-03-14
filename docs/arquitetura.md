@@ -1,0 +1,2 @@
+Arquitetura
+arquiteturas as funções relacionadas
